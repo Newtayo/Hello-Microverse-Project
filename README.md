@@ -1,60 +1,94 @@
+<h3><b>MICROVERSE HELLO PROJECT README FILE</b></h3>
 
-Hello-microverse project
+</div>
 
-Hello-microverse project is a simple html and css project built to implement the use of microverse html-css linters
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    
+    - [Key Features](#key-features)
+  -
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+ 
+- [👥 Authors](#authors)
 
 
-## 🛠 Built With <a name="html and css"></a>
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Microverse Hello Project <a name="about-project"></a>
 
 
 
-<!-- AUTHOR -->
+Microverse Hello Project This is a simple Html and CSS File. It has microverse html and css linters incorporated in it for code uniformity and validation.
 
-## 👥 Author<a name="Akande Abdulwasiu"></a>
+## 🛠 Built With <a name="built-with"></a>
+HTML 
+<BR>
+CSS
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> This project display "Hello Microverse!" in bisque color.
+
+- Displays text in bisque color
+- Background is white
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-👤 **Author**
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> 
+
+To get a local copy up and running on your deveice, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+Have a github account
+
+
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+
+### Install
+
+
+
+Open cloned folder on visual studio code
+
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Akande Abdulwasiu**
 
 - GitHub: [@githubhandle](https://github.com/Newtayo)
 - Twitter: [@twitterhandle](https://twitter.com/Omortayoh)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/Akande Abdulwasiu)
 
 
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="Microverse Team"></a>
-
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
