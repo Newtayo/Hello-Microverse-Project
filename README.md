@@ -239,7 +239,7 @@ I would like to thank Microverse Team for this opportunity. I also want to ackno
 
 - Can clone repository using vscode
 
-  - Ensure you are signed io your github account on vscode
+  - Ensure you are signed to your github account on vscode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
